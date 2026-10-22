@@ -20,7 +20,7 @@
   },
   "packageManager": "npm@10.1.0",
   "engines": {
-    "node": ">=20"
+    "node": "^24.22.1"
   },
   "workspaces": [
     "apps/*",
